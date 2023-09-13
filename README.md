@@ -50,3 +50,11 @@ python manage.py runserver
 Email: yolo_popo@email.com
 Password: Dirac
 
+
+
+## Credits
+
+This project was built as part of my learning journey in Django. I completed an online Django development course by Dennis Ivy, which provided me with the knowledge and skills needed to create "Discourse."
+
+I would like to express my gratitude to the instructors and the online learning community for their valuable insights and support.
+
